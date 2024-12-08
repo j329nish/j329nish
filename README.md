@@ -10,7 +10,19 @@
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
   </div>
-<br><br><br>
+<br>
+
+## my skill's🔥
+
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
+</p>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 ## I'm Shoto🔥
 
