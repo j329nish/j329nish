@@ -1,5 +1,44 @@
-# Hello
-<br><br>
+## プロフィール
+
+- 名前：西田祥人（Nishida Shoto）
+- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
+- Email：nishida@ai.cs.ehime-u.ac.jp
+  
+<table align=center>
+  <tr>
+    <td>
+      <img width=500px src="./data/shoto.jpg">
+    </td>
+  </tr>
+</table>
+
+## スキル
+
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
+</p>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 研究業績
+
+### 国内会議
+- 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
+大規模言語モデルが生成した記事の自動検出.<br>
+情報処理学会第87回全国大会, 6R-06, March 2025. [[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)]<br>
+
+### 受賞等
+- 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
+    > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
+    > 大規模言語モデルが生成した記事の自動検出.<br>
+    > 情報処理学会第87回全国大会, 6R-06, March 2025.<br>
+
+- 愛媛新聞ONLINEに掲載 [[URL](https://www.ehime-np.co.jp/article/news202503120004)]
+    > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
+    > 大規模言語モデルが生成した記事の自動検出.<br>
+    > 情報処理学会第87回全国大会, 6R-06, March 2025.<br>
 
 <div align="center">
     <h1>
@@ -11,39 +50,3 @@
     </h1>
   </div>
 <br>
-
-## my skill's🔥
-
-<p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
-</p>
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-## I'm Shoto🔥
-
-<table align=center>
-  <tr>
-    <td>
-      <img width=500px src="./data/shoto.jpg">
-    </td>
-  </tr>
-</table>
-
-## 研究業績
-
-### 国内会議
-- 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
-大規模言語モデルが生成した記事の自動検出.<br>
-情報処理学会第87回全国大会, 6R-06, March 2025.<br>
-
-### 受賞
-- 情報処理学会第87回全国大会 学生奨励賞<br>
-    > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
-    > 大規模言語モデルが生成した記事の自動検出.<br>
-    > 情報処理学会第87回全国大会, 6R-06, March 2025.<br>
-
