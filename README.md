@@ -1,7 +1,7 @@
 ## プロフィール
 
 - 名前：西田祥人（Nishida Shoto）
-- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/) 新B4
+- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
 - Email：nishida@ai.cs.ehime-u.ac.jp
   
 <table align=center>
