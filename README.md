@@ -14,6 +14,8 @@
 
 ## スキル
 
+- 2024年 6月　GPS-Academic 思考力総合Sレベル
+
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
