@@ -44,7 +44,7 @@
 
 ## 資格
 
-- 増える予定
+- G検定2025#3　合格
 
 ## ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
