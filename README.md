@@ -15,6 +15,7 @@
 ## スキル
 
 - 2024年 6月　GPS-Academic 思考力総合Sレベル
+- TechFULイベント（Java）
 - Webサイトの作成 (HTML, PHP, JavaScript, SQL)
 - Webアプリの作成（Java）
 - 自然言語処理100本ノック 終了 (Python)
