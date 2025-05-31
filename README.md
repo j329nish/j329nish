@@ -15,6 +15,10 @@
 ## スキル
 
 - 2024年 6月　GPS-Academic 思考力総合Sレベル
+- Webサイトの作成 (HTML, PHP, JavaScript, SQL)
+- Webアプリの作成（Java）
+- 自然言語処理100本ノック 終了 (Python)
+- 競技プログラミングの鉄則 6章まで終了 (Python)
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
