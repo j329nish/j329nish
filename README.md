@@ -14,12 +14,15 @@
 
 ## スキル
 
-- 2024年 6月　GPS-Academic 思考力総合Sレベル
-- TechFULイベント（Java）
-- Webサイトの作成 (HTML, PHP, JavaScript, SQL)
-- Webアプリの作成（Java）
-- 自然言語処理100本ノック 終了 (Python)
-- 競技プログラミングの鉄則 6章まで終了 (Python)
+| 日付 | 内容 | 使用言語 | Link |
+|-|-|-|-|
+| 2024年 2月 | TechFULイベント | Java | - |
+| 2024年 6月 | GPS-Academic 思考力総合Sレベル | - | - |
+| 2024年 7月 | Webサイトの作成 | HTML, PHP, JavaScript, SQL | [Link](https://github.com/j329nish/Web-Programming) |
+| 2024年 8月 | Webアプリの作成 | Java | [Link](https://github.com/j329nish/Web-Pro_By_Java) |
+| 2025年 5月 | 自然言語処理100本ノック 終了 | Python | [Link](https://github.com/j329nish/NLP-100knocks) |
+| 2025年 5月 | JoeyNMTの改良 | Python | [Link](https://github.com/j329nish/JoeyNMT) |
+| 2025年 6月 | 競技プログラミングの鉄則 6章まで終了 | Python | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
