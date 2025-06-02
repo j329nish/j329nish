@@ -28,7 +28,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
 </p>
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
 
