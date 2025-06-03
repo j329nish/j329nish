@@ -60,8 +60,6 @@
 - Apex Legends　上位1%
 - 原神（フリーナ, 行秋）　上位1%
 - 雀魂　雀傑
-- ランニング　週2回
-- 筋トレ　週3回
 
 ## ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
