@@ -23,6 +23,7 @@
 | 2025年 3月 | 真贋判定アプリの開発 | Python, Streamlit | [Link](https://github.com/j329nish/Authenticity-check) |
 | 2025年 5月 | 自然言語処理100本ノック 終了 | Python | [Link](https://github.com/j329nish/NLP-100knocks) |
 | 2025年 5月 | JoeyNMTの改良 | Python | [Link](https://github.com/j329nish/JoeyNMT) |
+| 2025年 6月 | 一週間で身につくC++言語の基本 | C++ | [Link](https://github.com/j329nish/Cpp-Sevendays-Study) |
 | 2025年 6月 | 競技プログラミングの鉄則 6章まで終了 | Python | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
 
 <p align="center"> 
