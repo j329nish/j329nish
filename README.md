@@ -1,4 +1,4 @@
-## プロフィール
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/> プロフィール
 
 - 名前：西田祥人（Nishida Shoto）
 - 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-## スキル
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> スキル
 
 | 日付 | 内容 | 使用言語等 | Link |
 |-|-|-|-|
@@ -33,7 +33,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 研究業績
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"/> 研究業績
 
 ### 国内会議
 - 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
@@ -51,21 +51,19 @@
     > 大規模言語モデルが生成した記事の自動検出.<br>
     > 情報処理学会第87回全国大会, 6R-06, March 2025.<br>
 
-## 資格
+## <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNzAxMDJiOWUzMzRkZjg5ZjY3NmU5MDU1NDhiYWY2ZDNjNjE5NmIwYTQ5ZjFmOGVkM2I4M2U0NGEyYjk4OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LvxBzPW9zw0QENGgEjp4B-9Ygea2EueY5vj2hihRkAo" width="25"/> 資格
 
 - G検定2025#3　合格
 
-## 趣味
+## <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4NTQzOGI4OTQ5NjVlYTZmZTY1NGJiMjM0ZTk0MWY3OWYyN2FiNzk0YjBjMzkxOGI0NDk5YzIzMjI1ZjAzMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fSVKt2RL0LojtoRS-2k9rjPfo903ORuLi-ollFF0H7s" width="30"/> 趣味
 
 - e-typing　Professor
 - Apex Legends　上位1%
 - 原神（フリーナ, 行秋）　上位1%
 - 雀魂　雀傑
 
-## ライセンス
+## <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4MGNiZjU5ZDg2NmFiMDdhMzM0ZTEzZjk4M2ZiZGU3YWQ0NjMxMzYxMWI0YzI1MDk2ZjhhYTIxZjg3N2U0YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yTJEQnowpG7K_HeIDpmwCbxGqu-92UEtEkJhehb8XBg" width="25"/> ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
-
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1MTU4MzgzMjgzZjIwMzUzMmFjNTU1ZDMwNjNkNjE5ZTkwM2EzMjg4MGYxZTg4ODE3MDg0ZWU5NDRiMTRlY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1YgazzVWO9ArPChWufFGbLwnmcJMYJHvwfjxAUI2XxM">
 
 <div align="center">
     <h1>
