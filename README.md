@@ -33,7 +33,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
 
-## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"/> 研究業績
+## 研究業績
 
 ### 国内会議
 - 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
@@ -51,11 +51,11 @@
     > 大規模言語モデルが生成した記事の自動検出.<br>
     > 情報処理学会第87回全国大会, 6R-06, March 2025.<br>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNzAxMDJiOWUzMzRkZjg5ZjY3NmU5MDU1NDhiYWY2ZDNjNjE5NmIwYTQ5ZjFmOGVkM2I4M2U0NGEyYjk4OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LvxBzPW9zw0QENGgEjp4B-9Ygea2EueY5vj2hihRkAo" width="25"/> 資格
+## 資格
 
 - G検定2025#3　合格
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTQxNDAsIm5iZiI6MTc0ODk5Mzg0MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDIzMzcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4NTQzOGI4OTQ5NjVlYTZmZTY1NGJiMjM0ZTk0MWY3OWYyN2FiNzk0YjBjMzkxOGI0NDk5YzIzMjI1ZjAzMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fSVKt2RL0LojtoRS-2k9rjPfo903ORuLi-ollFF0H7s" width="30"/> 趣味
+## 趣味
 
 - e-typing　Professor
 - Apex Legends　上位1%
