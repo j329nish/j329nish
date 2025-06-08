@@ -16,15 +16,15 @@
 
 | 日付 | 内容 | 使用言語等 | Link |
 |-|-|-|-|
-| 2024年 2月 | TechFULイベント | Java | - |
+| 2024年 2月 | TechFULイベント | `Java` | - |
 | 2024年 6月 | GPS-Academic 思考力総合Sレベル | - | - |
-| 2024年 7月 | Webサイトの作成 | HTML, PHP, JavaScript, SQL | [Link](https://github.com/j329nish/Web-Programming) |
-| 2024年 8月 | Webアプリの作成 | Java | [Link](https://github.com/j329nish/Web-Pro_By_Java) |
-| 2025年 3月 | 真贋判定アプリの開発 | Python, Streamlit | [Link](https://github.com/j329nish/Authenticity-check) |
-| 2025年 5月 | 自然言語処理100本ノック 終了 | Python | [Link](https://github.com/j329nish/NLP-100knocks) |
-| 2025年 5月 | JoeyNMTの改良 | Python | [Link](https://github.com/j329nish/JoeyNMT) |
-| 2025年 6月 | 一週間で身につくC++言語の基本 | C++ | [Link](https://github.com/j329nish/Cpp-Sevendays-Study) |
-| 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | Python | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
+| 2024年 7月 | Webサイトの作成 | `HTML` `PHP` `JavaScript` `SQL` | [Link](https://github.com/j329nish/Web-Programming) |
+| 2024年 8月 | Webアプリの作成 | `Java` | [Link](https://github.com/j329nish/Web-Pro_By_Java) |
+| 2025年 3月 | 真贋判定アプリの開発 | `Python` `Streamlit` | [Link](https://github.com/j329nish/Authenticity-check) |
+| 2025年 5月 | 自然言語処理100本ノック 終了 | `Python` | [Link](https://github.com/j329nish/NLP-100knocks) |
+| 2025年 5月 | JoeyNMTの改良 | `Python` | [Link](https://github.com/j329nish/JoeyNMT) |
+| 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study) |
+| 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
@@ -72,7 +72,7 @@
 - 原神（フリーナ, 行秋）　上位1%
 - 雀魂　雀傑
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5OTc0MTgsIm5iZiI6MTc0ODk5NzExOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA0VDAwMzE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5ZTQ3NGYwYzg3MTQ5NjdkZGFiZThlMmU5MDg0ZmQ1ZTVkYzk3YTVjMmQ5YzUwMjE2MDNjZDRlZWJmNmNmMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ChF7rerbMJwQdJ87CNms3MgNshIk1-Jx2kFZWzPmAew" width="25"/> ライセンス
+## <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzODg2NTMsIm5iZiI6MTc0OTM4ODM1MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDEzMTIzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1OTIzZWQyOGM0ZTBkZmZjOTY2MDIzODI4MGE0OGE2ZmUxZTBmMmIxNjMyNjhmYjNmYjkyMWQ2MmI3MzFmYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9DGexcYIKZq3gqtXD0K3US93yLzTRafR2pHFlFtm-O0" width="25"/> ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
 
 <div align="center">
