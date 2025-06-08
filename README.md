@@ -31,7 +31,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=j329nish" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=j329nish)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=j329nish&title=-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 研究業績
 
