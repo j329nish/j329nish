@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/> プロフィール
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/> プロフィール > [ポートフォリオ](https://j329nish.github.io/Portfolio/)
 
 - 名前：西田祥人（Nishida Shoto）
 - 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
