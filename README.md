@@ -20,12 +20,13 @@
 | 2024年 6月 | GPS-Academic 思考力総合Sレベル | - | - |
 | 2024年 7月 | Webサイトの作成 | `HTML` `PHP` `JavaScript` `SQL` | [Link](https://github.com/j329nish/Web-Programming) |
 | 2024年 8月 | Webアプリの作成 | `Java` | [Link](https://github.com/j329nish/Web-Pro_By_Java) |
+| 2024年 8月 | インターン | `React` `TypeScript` | - |
 | 2025年 3月 | 真贋判定アプリの開発 | `Python` `Streamlit` | [Link](https://github.com/j329nish/Authenticity-check) |
 | 2025年 5月 | 自然言語処理100本ノック 終了 | `Python` | [Link](https://github.com/j329nish/NLP-100knocks) |
 | 2025年 5月 | JoeyNMTの改良 | `Python` | [Link](https://github.com/j329nish/JoeyNMT) |
 | 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study) |
 | 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
-| 2025年 6月 | ポートフォリオ | `React` `TypeScript` `Astro` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
+| 2025年 6月 | ポートフォリオ | `Astro` `React` `TypeScript` | [Link](https://github.com/j329nish/Portfolio) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
