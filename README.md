@@ -25,6 +25,7 @@
 | 2025年 5月 | JoeyNMTの改良 | `Python` | [Link](https://github.com/j329nish/JoeyNMT) |
 | 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study) |
 | 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
+| 2025年 6月 | ポートフォリオ | `React` `TypeScript` `Astro` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
