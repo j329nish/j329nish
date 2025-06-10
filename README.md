@@ -24,7 +24,7 @@
 | 2025年 3月 | 真贋判定アプリの開発 | `Python` `Streamlit` | [Link](https://github.com/j329nish/Authenticity-check#readme) |
 | 2025年 5月 | 自然言語処理100本ノック | `Python` | [Link](https://github.com/j329nish/NLP-100knocks#readme) |
 | 2025年 5月 | JoeyNMTの改良 | `Python` | [Link](https://github.com/j329nish/JoeyNMT#readme) |
-| 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study#readme) |
+| 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` `CMake` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study#readme) |
 | 2025年 6月 | ポートフォリオ | `Astro` `React` `TypeScript` | [Link](https://github.com/j329nish/Portfolio#readme) |
 | 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book#readme) |
 | 2025年 6月 | プログラミング言語のハンズオン | `React` `Ruby` `C#` `Go` `Rust` `Kotlin` | [Link](https://github.com/j329nish/Hands-On#readme) |
