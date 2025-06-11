@@ -27,7 +27,7 @@
 | 2025年 6月 | 一週間で身につくC++言語の基本 | `C++` `CMake` | [Link](https://github.com/j329nish/Cpp-Sevendays-Study?tab=readme-ov-file#一週間で身につくc言語の基本) |
 | 2025年 6月 | ポートフォリオ | `Astro` `React` `TypeScript` | [Link](https://github.com/j329nish/Portfolio?tab=readme-ov-file#ポートフォリオ) |
 | 2025年 6月 | 競技プログラミングの鉄則 8.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book?tab=readme-ov-file#競技プログラミングの鉄則) |
-| 2025年 6月 | プログラミング言語のハンズオン | `React` `Ruby` `C#` `Go` `Rust` `Kotlin` | [Link](https://github.com/j329nish/Hands-On?tab=readme-ov-file#hands-on) |
+| 2025年 6月 | プログラミング言語のハンズオン | `React` `Python` `Ruby` `C#` <br> `Go` `C++` `Rust` `Kotlin` | [Link](https://github.com/j329nish/Hands-On?tab=readme-ov-file#hands-on) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
