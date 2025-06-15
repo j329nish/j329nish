@@ -20,6 +20,7 @@
 | 2024年 6月 | GPS-Academic 思考力総合Sレベル | - | - |
 | 2024年 7月 | Webサイトの作成 | `HTML` `PHP` `JavaScript` `SQL` | [Link](https://github.com/j329nish/Web-Programming?tab=readme-ov-file#ウェブプログラミング) |
 | 2024年 8月 | Webアプリの作成 | `Java` | [Link](https://github.com/j329nish/Web-Pro_By_Java?tab=readme-ov-file#ウェブプログラミングjava) |
+| 2024年 8月 | キッチンタイマー | `C++` | [Link](https://github.com/j329nish/Kitchen-Timer/tree/main?tab=readme-ov-file#%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC) |
 | 2024年 8月 | インターン | `React` `TypeScript` | - |
 | 2025年 3月 | 真贋判定アプリの開発 | `Python` `Streamlit` | [Link](https://github.com/j329nish/Authenticity-check?tab=readme-ov-file#真贋判定アプリauthenticity-check-apps) |
 | 2025年 5月 | 自然言語処理100本ノック | `Python` | [Link](https://github.com/j329nish/NLP-100knocks?tab=readme-ov-file#言語処理100本ノック) |
