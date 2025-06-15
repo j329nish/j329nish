@@ -77,6 +77,10 @@
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
 
 <div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Would%20you%20capture%20it%20or%20just%20let%20it%20slip?%20&frame=cccccc&number=100&comment=Lyrics%20from%20Eminem's%20%22Lose%20Yourself%22&l0=f5f5f5&l1=90ee90&l2=3cb371&l3=2e8b57&l4=006400"></a>
+</div>
+
+<div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
@@ -84,7 +88,5 @@
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
-  </div>
+</div>
 <br>
-
-[![typograssy](https://typograssy.deno.dev/api?text=Would%20you%20capture%20it%20or%20just%20let%20it%20slip?%20&frame=cccccc&number=100&comment=Lyrics%20from%20Eminem's%20"Lose%20Yourself"&l0=f5f5f5&l1=90ee90&l2=3cb371&l3=2e8b57&l4=006400)](https://github.com/kawarimidoll/typograssy)
