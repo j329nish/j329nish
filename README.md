@@ -73,7 +73,7 @@
 - 原神（フリーナ, 行秋）　上位1%
 - 雀魂　雀傑
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzODg2NTMsIm5iZiI6MTc0OTM4ODM1MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDEzMTIzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1OTIzZWQyOGM0ZTBkZmZjOTY2MDIzODI4MGE0OGE2ZmUxZTBmMmIxNjMyNjhmYjNmYjkyMWQ2MmI3MzFmYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9DGexcYIKZq3gqtXD0K3US93yLzTRafR2pHFlFtm-O0" width="25"/> ライセンス
+## ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
 
 <div align="center">
