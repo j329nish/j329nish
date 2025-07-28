@@ -30,7 +30,7 @@
 | 2025年 6月 | ポートフォリオ | `React` `Astro` `TypeScript` | [Link](https://github.com/j329nish/Portfolio?tab=readme-ov-file#ポートフォリオ) |
 | 2025年 6月 | 競技プログラミングの鉄則 9.5章まで終了 | `Python` | [Link](https://github.com/j329nish/Kyopro-Tessoku-Book?tab=readme-ov-file#競技プログラミングの鉄則) |
 | 2025年 6月 | プログラミング言語のハンズオン | `React` `Python` `Ruby` `C#` <br> `Go` `C++` `Rust` `Kotlin` | [Link](https://github.com/j329nish/Hands-On?tab=readme-ov-file#hands-on) |
-| 2025年 7月 | アノテーションツールの開発 | `React` `Vite` `Python` <br> `PostgreSQL` `Render` `Docker` | [Link](https://github.com/BakeryForHackathon/Annotopia) |
+| 2025年 7月 | アノテーションアプリの開発 | `React` `Vite` `Python` <br> `PostgreSQL` `Render` `Docker` | [Link](https://github.com/BakeryForHackathon/Annotopia) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
