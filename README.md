@@ -67,7 +67,7 @@
 ## 資格・趣味
 
 - G検定2025#3　合格
-- e-typing　Professor
+- e-typing　LaserBeam
 - Apex Legends　上位1%
 - 原神（フリーナ, 行秋）　上位1%
 - 雀魂　雀傑
