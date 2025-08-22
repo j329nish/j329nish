@@ -70,9 +70,6 @@
 
 - G検定2025#3　合格
 - e-typing　LaserBeam
-- Apex Legends　上位1%
-- 原神（フリーナ, 行秋）　上位1%
-- 雀魂　雀傑
 
 ## ライセンス
 このファイルは [MIT License](https://github.com/j329nish/j329nish/blob/main/LICENSE) のもとで公開されています。  
