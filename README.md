@@ -47,6 +47,10 @@
 大規模言語モデルが生成した記事の自動検出.<br>
 情報処理学会第87回全国大会, 6R-06, March 2025. [[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)]<br>
 
+- 西田祥人, 二宮　崇, 後藤功雄.<br>
+対訳文対のアライメントを考慮したサブワード分割.<br>
+第20回言語処理若手シンポジウム, S1-P24, September 2025. [[URL](https://yans.anlp.jp/entry/yans2025program)]<br>
+
 ### 受賞等
 - 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
     > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
