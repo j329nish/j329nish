@@ -31,6 +31,7 @@
 | 2025年 6月 | プログラミング言語のハンズオン | `React` `Python` `Ruby` `C#` <br> `Go` `C++` `Rust` `Kotlin` | [Link](https://github.com/j329nish/Hands-On?tab=readme-ov-file#hands-on) |
 | 2025年 7月 | アノテーションアプリの開発 | `React` `Vite` `Python` <br> `PostgreSQL` `Render` `Docker` | [Link](https://github.com/BakeryForHackathon/Annotopia) |
 | 2025年 8月 | 部屋の人数管理アプリの開発 | `React` `Vite` | [Link](https://github.com/team-barbecue/lab_access_control_app) |
+| 2025年 9月 | バイリンガルサブワード分割 | `Python` | [Link](https://github.com/j329nish/Bilingual-Subword-Segmentation) |
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j329nish&layout=compact" />
