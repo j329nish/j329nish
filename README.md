@@ -51,6 +51,15 @@
 対訳文対のアライメントを考慮したサブワード分割.<br>
 第20回言語処理若手シンポジウム, S1-P24, September 2025. [[URL](https://yans.anlp.jp/entry/yans2025program)]<br>
 
+- 西田祥人, 二宮　崇, 後藤功雄.<br>
+言語間対応を考慮したバイリンガルサブワード分割.<br>
+言語処理学会第32回年次大会, P1-16, March 2026. [[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#P1-16)]<br>
+
+### 研究会
+- 西田祥人, 松井大樹, 二宮　崇, 後藤功雄, 田村晃裕.<br>
+対訳文対のサブワードアライメントを考慮したサブワード分割.<br>
+第1回AAMT翻訳通訳研究会, (13), March 2026. [[URL](https://aamt.info/event/seminar/20260318)]<br>
+
 ### 受賞等
 - 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
     > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
