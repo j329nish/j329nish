@@ -42,18 +42,23 @@
 
 ## 研究業績
 
+### 国際会議
+- Shoto Nishida, Daiki Matsui, Takashi Ninomiya, Isao Goto, Akihiro Tamura.<br>
+Probabilistic Bilingual Subword Segmentation with Latent Subword Alignment.<br>
+In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pp.528–534, March 2026. [[URL](https://2026.eacl.org/program/srw-accepted/)] [[PDF](https://aclanthology.org/2026.eacl-srw.40.pdf)]<br>
+
 ### 国内会議
 - 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.<br>
 大規模言語モデルが生成した記事の自動検出.<br>
-情報処理学会第87回全国大会, 6R-06, March 2025. [[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)]<br>
+情報処理学会第87回全国大会, 6R-06, March 2025. [[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)] [[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]<br>
 
 - 西田祥人, 二宮　崇, 後藤功雄.<br>
 対訳文対のアライメントを考慮したサブワード分割.<br>
-第20回言語処理若手シンポジウム, S1-P24, September 2025. [[URL](https://yans.anlp.jp/entry/yans2025program)]<br>
+第20回言語処理若手シンポジウム, S1-P24, September 2025. [[URL](https://yans.anlp.jp/entry/yans2025program)] [[PDF](https://github.com/j329nish/Bilingual-Subword-Segmentation/blob/main/yans2025_%E8%A5%BF%E7%94%B0_v4.pdf)]<br>
 
 - 西田祥人, 二宮　崇, 後藤功雄.<br>
 言語間対応を考慮したバイリンガルサブワード分割.<br>
-言語処理学会第32回年次大会, P1-16, March 2026. [[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#P1-16)]<br>
+言語処理学会第32回年次大会, P1-16, March 2026. [[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#P1-16)] [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P1-16.pdf)]<br>
 
 ### 研究会
 - 西田祥人, 松井大樹, 二宮　崇, 後藤功雄, 田村晃裕.<br>
@@ -74,6 +79,11 @@
 - 愛媛大学工学部工学科コンピュータ科学コース最優秀学生（3 年次）
 
 - 第20回言語処理若手シンポジウム ハッカソン SFT部門 優秀賞
+
+- EACL 2026: SRW Best Paper Award 
+    > Shoto Nishida, Daiki Matsui, Takashi Ninomiya, Isao Goto, Akihiro Tamura.<br>
+    > Probabilistic Bilingual Subword Segmentation with Latent Subword Alignment.<br>
+    > In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pp.528–534, March 2026. <br>
 
 ## 経験
 
