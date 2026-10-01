@@ -60,6 +60,12 @@ In Proceedings of the 19th Conference of the European Chapter of the Association
 言語間対応を考慮したバイリンガルサブワード分割.<br>
 言語処理学会第32回年次大会, P1-16, March 2026. [[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#P1-16)] [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P1-16.pdf)]<br>
 
+#### 共著
+
+- 田窪真大, 西田祥人, 二宮　崇, 後藤功雄.<br>
+複数プロンプト型Consensus-GRPOによる機械翻訳.<br>
+第21回言語処理若手シンポジウム, S3-P39, August 2026. [[URL](https://yans.anlp.jp/entry/yans2026program)]<br>
+
 ### 研究会
 - 西田祥人, 松井大樹, 二宮　崇, 後藤功雄, 田村晃裕.<br>
 対訳文対のサブワードアライメントを考慮したサブワード分割.<br>
